@@ -6,13 +6,14 @@ Welcome to the Machine Learning Projects Repository! This repository contains a 
 
 Below is a list of the projects included in this repository:
 
-- **Project 1:** [Active Covid-19 Data Tracker](https://github.com/yourusername/project1)
-- **Project 2:** [Grammar Corrector](https://github.com/yourusername/project2)
-- **Project 3:** [Sentiment Analysis with Recurrent Neural Networks](https://github.com/yourusername/project3)
-- **Project 4:** [Traffic Control](https://github.com/yourusername/project4)
-- **Project 5:** [Social Media Chat Analysis](https://github.com/yourusername/project5)
-- **Project 6:** [TicTacToe GUI](https://github.com/yourusername/project6)
-- **Project 7:** [Encrypt - Decrypt text using Python](https://github.com/yourusername/project7)
+- **Project 1:** [Active Covid-19 Data Tracker](https://github.com/dopplar/ML-projects/blob/main/Active_Covid19_Data.ipynb)
+- **Project 2:** [Grammar Corrector](https://github.com/dopplar/ML-projects/blob/main/Grammar_Correcetion.ipynb)
+- **Project 3:** [Sentiment Analysis with Recurrent Neural Networks](https://github.com/dopplar/ML-projects/blob/main/hotel_review_sentiment.ipynb)
+- **Project 4:** [Traffic Control](https://github.com/dopplar/ML-projects/blob/main/Traffic_Control.ipynb)
+- **Project 5:** [Social Media Chat Analysis](https://github.com/dopplar/ML-projects/blob/main/Whatsapp_chat_analysis.ipynb)
+- **Project 6:** [TicTacToe GUI](https://github.com/dopplar/ML-projects/blob/main/tictactoe.ipynb)
+- **Project 7:** [Encrypt - Decrypt text using Python](https://github.com/dopplar/ML-projects/blob/main/encrypt_decrypt.ipynb)
+- **Project 8:** [Sarcasm Detector] (https://github.com/dopplar/ML-projects/blob/main/Sarcasm_Detection.ipynb)
 
 ## How to Use
 
