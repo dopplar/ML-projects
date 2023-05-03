@@ -13,7 +13,7 @@ Below is a list of the projects included in this repository:
 - **Project 5:** [Social Media Chat Analysis](https://github.com/dopplar/ML-projects/blob/main/Whatsapp_chat_analysis.ipynb)
 - **Project 6:** [TicTacToe GUI](https://github.com/dopplar/ML-projects/blob/main/tictactoe.ipynb)
 - **Project 7:** [Encrypt - Decrypt text using Python](https://github.com/dopplar/ML-projects/blob/main/encrypt_decrypt.ipynb)
-- **Project 8:** [Sarcasm Detector] (https://github.com/dopplar/ML-projects/blob/main/Sarcasm_Detection.ipynb)
+- **Project 8:** [Sarcasm Detector](https://github.com/dopplar/ML-projects/blob/main/Sarcasm_Detection.ipynb)
 
 ## How to Use
 
